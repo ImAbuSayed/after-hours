@@ -16,10 +16,12 @@
 |-------|---------|
 | **Title** | After Hours |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | May 16, 2026 |
+| **Written On** | May 15, 2026 |
+| **Created On** | May 15, 2026 |
+| **Released On** | May 16, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/after-hours/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for After Hours](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/after-hours/) |
+| **Get License** | [Get a Licensing Quote for After Hours](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=fmA3v9C73dY?https://imabusayed.github.io/after-hours/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -49,6 +51,7 @@
 ## 🔗 Song Links
 
 - [Telegram](https://t.me/AbuSayedMusic/1525)
+- [YouTube](https://www.youtube.com/watch?v=fmA3v9C73dY)
 
 ---
 
