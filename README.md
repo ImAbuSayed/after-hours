@@ -21,7 +21,7 @@
 | **Released On** | May 16, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/after-hours/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for After Hours](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=fmA3v9C73dY?https://imabusayed.github.io/after-hours/) |
+| **Get License** | [Get License For After Hours](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=fmA3v9C73dY?https://imabusayed.github.io/after-hours/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
